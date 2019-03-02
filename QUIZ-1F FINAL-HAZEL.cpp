@@ -4,9 +4,9 @@ using namespace std;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 // global
 int k,temp2; // Gideclare nako ni as global kay magamit man siya sa whole process 
-class cpe1b{
+class cpe1b{ //gacreate ko ug class nga 'cpe1b'
 	public:
-		//'LONG' ANG DATA TYPE NGA AKONG GIGAMIT SA MGA FUNCTIONS KAY ANG 'LONG' MAS DAKO PA UG LIMIT KAYSA SA 'LONG'
+		//'LONG' ANG DATA TYPE NGA AKONG GIGAMIT SA MGA FUNCTIONS KAY ANG 'LONG' MAS DAKO PA UG LIMIT KAYSA SA 'INT'
 		void palindromic_prime(long x); // PASABOT ANI KAY MAGHIMO KAG FUNCTION NGA PALINDROMIC PRIME
 		void wasteful_number(long x); // PASABOT ANI KAY MAGHIMO KAG FUNCTION NGA WASTEFUL NUMBER
 		long prime(long num);  // FUNCTION NI SIYA NGA GINGANLAN UG PRIME PARA MADETERMINE NATU ANG PRIME NUMBERS SA INPUT

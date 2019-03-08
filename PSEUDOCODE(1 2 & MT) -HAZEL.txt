@@ -37,5 +37,5 @@ MIDTERM : (Palindromic Prime of the Wasteful Prime factors)
 	6. Compare the number of digits and prime factors
 	7. If factor is more than digits, print "WASTEFUL NUMBER"
 	8. Get the binary of each of the wasteful prime factors, and then reverse its binary 
-	9. If binary is equal to reverse, then print only the "PALINDROMIC PRIME FACTORS" of the specific wasteful number
+	9. If binary is equal to reverse, then print only the "PALINDROMIC PRIME FACTORS" of the specific wasteful number that starts w/ a 3-digits binary
 	10. END 
